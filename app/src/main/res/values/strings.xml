@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImagineMessanger</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="buttonSendM">SEND</string>
+    <string name="message">message</string>
+    <string name="sender">sender</string>
+    <string name="country_prompt">Choose a game</string>
+
+    <string-array name="games">
+        <item>Shooting</item>
+        <item>Labirith</item>
+    </string-array>
+</resources>
